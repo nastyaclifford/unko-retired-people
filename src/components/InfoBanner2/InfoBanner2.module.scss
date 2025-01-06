@@ -93,7 +93,7 @@
   }
   &_text {
     @include p1;
-    color: $light-black;
+    //color: $light-black;
   }
 }
 
@@ -156,7 +156,7 @@
     }
     &_text {
       @include p1-lg;
-      color: $light-black;
+      //color: $light-black;
       width: 70vw;
     }
   }
@@ -306,7 +306,7 @@
     max-width: 676px;
     width: 100%;
     @include p-mob;
-    color: $light-black;
+    //color: $light-black;
   }
   .steps_grid::before {
     display: none;
