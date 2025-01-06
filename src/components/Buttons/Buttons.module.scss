@@ -1,0 +1,27 @@
+@use '../../styles/variables' as *;
+
+.buttons {
+  @include button;
+  width: 184px;
+  height: 184px;
+  background-color: $olive;
+  color: $white;
+  border-radius: 50%;
+  border: 0;
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.4);
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.buttons:hover {
+  background-color: $white;
+  color: $olive;
+}
+
+@media screen and (min-width: 1401px) {
+  .buttons {
+    @include button-lg;
+    width: 252px;
+    height: 252px;
+  }
+}

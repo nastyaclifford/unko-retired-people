@@ -1,0 +1,225 @@
+$olive: #8CB800;
+$burgundy: #BC0051;
+$beige: #F7FFDC;
+$light-black: #303424;
+$white: #FDFFF9;
+
+///lg screen
+
+@mixin heading1-lg{
+    font-family: "Inter";
+    color: var(--foreground);
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 72.61px;
+}
+
+@mixin heading2{
+    font-family: "Inter";
+    color: var(--foreground);
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 72.61px;
+}
+
+@mixin heading3-lg{
+    font-family: "Inter";
+    color: var(--foreground);
+    font-weight: 600;
+    font-size: 46px;
+    line-height: 55.67px;
+}
+
+@mixin p1-lg{
+    font-family: "Inter";
+    color: var(--foreground);
+    font-weight: 500;
+    font-size: 38px;
+    line-height: 45.99px;
+}
+
+@mixin p2-lg{
+    font-family: "Inter";
+    color: var(--foreground);
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38.73px;
+}
+
+@mixin p3-lg{
+    font-family: "Inter";
+    color: var(--foreground);
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 34.13px;
+}
+
+
+@mixin menu-lg{
+    font-family: "Inter";
+    color: var(--foreground);
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 33.89px;
+}
+
+@mixin button-lg{
+    font-family: "Inter";
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 45.99px;
+}
+
+///tablet,desktop
+
+@mixin heading1{
+    font-family: "Inter";
+    color: var(--foreground);
+    font-weight: 500;
+    font-size: 56px;
+    line-height: 67.77px;
+}
+
+@mixin heading2{
+    font-family: "Inter";
+    color: var(--foreground);
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 53.25px;
+}
+
+@mixin heading3{
+    font-family: "Inter";
+    color: var(--foreground);
+    font-weight: 600;
+    font-size: 34px;
+    line-height: 41.15px;
+}
+
+@mixin p1{
+    font-family: "Inter";
+    color: var(--foreground);
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 33.89px;
+}
+
+@mixin p2{
+    font-family: "Inter";
+    color: var(--foreground);
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29.05px;
+}
+
+@mixin p3{
+    font-family: "Inter";
+    color: var(--foreground);
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24.38px;
+}
+
+@mixin p4{
+    font-family: "Inter";
+    color: var(--foreground);
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+}
+
+@mixin p5{
+    font-family: 'Montserrat', sans-serif;
+    color: var(--foreground);
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+}
+
+@mixin menu{
+    font-family: "Inter";
+    color: var(--foreground);
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24.2px;
+}
+
+@mixin button{
+    font-family: "Inter";
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 33.89px;
+}
+
+///Mobile
+
+@mixin heading1-mob{
+    font-family: "Inter";
+    color: var(--foreground);
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 48.41px;
+}
+
+@mixin heading2-mob{
+    font-family: "Inter";
+    color: var(--foreground);
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 38.73px;
+}
+
+@mixin heading3-mob{
+    font-family: "Inter";
+    color: var(--foreground);
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 33.89px;
+}
+
+@mixin p-mob{
+    font-family: "Inter";
+    color: var(--foreground);
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32.17px;
+}
+
+@mixin p1-mob{
+    font-family: "Inter";
+    color: var(--foreground);
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 32.17px;
+}
+
+@mixin p2-mob{
+    font-family: "Inter";
+    color: var(--foreground);
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26.8px;
+}
+
+@mixin p3-mob{
+    font-family: "Inter";
+    color: var(--foreground);
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24.38px;
+}
+
+@mixin menu-mob{
+    font-family: "Inter";
+    color: var(--foreground);
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24.2px;
+}
+
+@mixin button-mob{
+    font-family: "Inter";
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 39.05px;
+}

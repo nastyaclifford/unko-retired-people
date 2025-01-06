@@ -1,0 +1,109 @@
+{
+  "header": {
+    "nav-item-1": "PROBLÈMES DES RETRAITÉS",
+    "nav-item-2": "ÉTAPES",
+    "nav-item-3": "SOLUTIONS",
+    "button": "Contactez nous"
+  },
+  "intro": {
+    "title": "Le saviez-vous ?",
+    "text": "L'isolement social chez les personnes âgées peut entraîner des problèmes de santé, tels qu'un risque accru de dépression et de déclin cognitif."
+  },
+  "info-banner1": {
+    "title": "Prenez soin de vos parents",
+    "text": "Lorsque les personnes qui ont des parents âgés ne leur rendent pas visite ou ne communiquent pas avec eux fréquemment, cela peut avoir plusieurs conséquences négatives sur la santé et le bien-être de leurs parents.",
+    "substr": "de tristesse,; de désespoir; d'inutilité.; d'Alzheimer.; une mauvaise hygiène,; la négligence des médicaments,; une mauvaise alimentation",
+    "section-1": {
+      "subtitle-1": "Risque accru de dépression",
+      "text-1": "La solitude est l'une des principales causes de dépression chez les personnes âgées. Lorsque les personnes âgées sont isolées ou se sentent abandonnées, elles peuvent éprouver des sentiments de tristesse, de désespoir et d'inutilité."
+    },
+    "section-2": {
+      "subtitle-2": "Déclin cognitif",
+      "text-2": "L'interaction sociale est essentielle au maintien de la vivacité d'esprit. Des études ont montré que les personnes âgées isolées courent un risque plus élevé de déclin cognitif, notamment de perte de mémoire et d'affections telles que la maladie d'Alzheimer."
+    },
+    "section-3": {
+      "subtitle-3": "Perte de motivation pour l'autosoin",
+      "text-3": "En l'absence de visites régulières ou d'interactions avec leurs proches, certaines personnes âgées peuvent perdre la motivation nécessaire pour prendre soin d'elles-mêmes. Cela peut se traduire par une mauvaise hygiène, la négligence des médicaments, une mauvaise alimentation et un déclin général des routines d'autosoins, ce qui peut entraîner d'autres complications de santé."
+    }
+  },
+  "info-banner2": {
+    "section-1": {
+      "title-1": "Offrez à vos parents des loisirs utiles qui contribuent à réduire les risques pour la santé",
+      "text-1": "Un écopoint UNCO est l'endroit où les villageois viennent chercher des produits frais, des fruits et des légumes livrés directement par les agriculteurs locaux. Nous invitons les retraités des petits villages à accueillir des écopoints, afin de rapprocher les voisins."
+    },
+    "section-2": {
+      "title-2": "Comment faire ?",
+      "text-2": "En ouvrant un écopoint dans la maison de tes parents, tu aideras les voisins à se procurer des produits frais et locaux tout en créant un espace de conversation et d'interaction sociale. Il suffit de deux étapes simples :"
+    },
+    "section-3": {
+      "subsection-1": {
+        "title-1": "Première étape :",
+        "text-1": "Indiquez au coursier l'endroit où les produits commandés peuvent être déchargés."
+      },
+      "subsection-2": {
+        "title-2": "Deuxième étape :",
+        "text-2": "Faites savoir à vos voisins où ils peuvent venir chercher leur commande."
+      }
+    }
+  },
+  "block-learn-more": {
+    "text-1": "Ouvrir la maison de vos parents en tant qu'écopoint est un moyen simple pour eux de ",
+    "text-2-bold": "rester engagés, de soutenir leur communauté",
+    "text-3": " et de ",
+    "text-4-bold": "profiter d'une interaction sociale régulière",
+    "text-5": ", tout en apportant une contribution significative.",
+    "text-6": "Les efforts à fournir sont minimes : ",
+    "text-7-italic": "les coursiers déchargent les courses",
+    "text-8": " et ",
+    "text-9-italic": "les clients récupèrent leurs commandes.",
+    "text-10": " Vos parents n'ont besoin que d'un peu d'espace pour le stockage. En tant qu'hôtes de l'écopoint, ils recevront également des produits frais et locaux, ce qui les aidera à",
+    "text-11-bold": " prendre soin de leur alimentation",
+    "text-12": " tout en restant actifs.",
+    "button-first-line": "En savoir",
+    "button-second-line": "plus"
+  },
+  "collapsible-elements": {
+    "element-1": {
+      "question-1": "1. Comment est organisée la livraison des produits aux points de ramassage ?",
+      "answer-1": "La livraison des produits aux points de ramassage d'Eco-point a lieu le matin du jour convenu, lorsque les agriculteurs apportent les produits emballés dans des thermobox. Eco-point accepte les boîtes thermiques et vérifie l'intégrité de l'emballage. Les produits ne nécessitent pas de conditions de stockage supplémentaires."
+    },
+    "element-2": {
+      "question-2": "2. Quelle est la fréquence de livraison des produits et quelles sont les conditions de stockage ?",
+      "answer-2": "Le calendrier de livraison est coordonné avec l'écopoint. Les produits sont livrés dans des boîtes thermos, où ils sont conservés pendant 24 heures, ce qui garantit leur fraîcheur et leur qualité jusqu'à leur livraison aux clients."
+    },
+    "element-3": {
+      "question-3": "3. Que faire en cas de problèmes de livraison ou de qualité des produits ?",
+      "answer-3": "Si l'agriculteur ne respecte pas les conditions de livraison ou si le produit ne répond pas aux exigences de qualité, l'acheteur est remboursé de la totalité du prix du contrat à terme alimentaire."
+    },
+    "element-4": {
+      "question-4": "4. Comment s'organise le processus de délivrance des produits aux écopoints ? Combien de temps cela prend-il ?",
+      "answer-4": "Le client présente l'Unko Food Future à la caisse, le personnel du point de retrait le scanne et émet une commande emballée personnellement, ce qui ne prend pas plus de 5 minutes, vous permettant de recevoir rapidement le produit et, en même temps, de boire une tasse de café avec vous !"
+    },
+    "element-5": {
+      "question-5": "5. Comment la collaboration avec vous peut-elle améliorer mon activité ?",
+      "answer-5": "En coopérant avec nous, vous améliorerez considérablement votre activité, augmenterez le trafic, participerez aux campagnes publicitaires et au matériel de marketing de l'UNCO, et créerez également un menu unique de produits de la ferme avec votre propre livraison en ligne."
+    },
+    "element-6": {
+      "question-6": "6. Comment puis-je ouvrir un point de distribution de produits dans ma région ?",
+      "answer-6": "C'est un moyen facile d'augmenter vos bénéfices, il vous suffit de vous rendre sur unco.market et de laisser vos contacts ! Vous aurez l'occasion d'augmenter la rentabilité de votre entreprise et de contribuer à l'écologie de votre région."
+    }
+  },
+  "block-contact-form": {
+    "title": "Contactez nous",
+    "text-1": "Votre nom",
+    "text-2": "E-mail",
+    "text-3": "Numéro de téléphone",
+    "button": "Envoyer",
+    "submit-success": "Formulaire soumis avec succès !",
+    "submit-fail": "Échec de l'envoi du formulaire",
+    "submit-error": "Erreur lors de l'envoi du formulaire !"
+  },
+  "footer": {
+    "menu": {
+      "nav-item-1": "PROBLÈMES DES RETRAITÉS",
+      "nav-item-2": "ÉTAPES",
+      "nav-item-3": "SOLUTIONS",
+      "text": "Propulsé par Discovery Freshness Club Oy"
+    }
+  }
+}

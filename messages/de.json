@@ -1,0 +1,109 @@
+{
+  "header": {
+    "nav-item-1": "Probleme von Rentnern",
+    "nav-item-2": "Schritte",
+    "nav-item-3": "LÖSUNGEN",
+    "button": "Kontaktieren Sie uns"
+  },
+  "intro": {
+    "title": "Wussten Sie schon?",
+    "text": "Soziale Isolation im Alter kann zu gesundheitlichen Herausforderungen führen, wie einem erhöhten Risiko für Depressionen und kognitive Beeinträchtigungen."
+  },
+  "info-banner1": {
+    "title": "Kümmern Sie sich um Ihre Eltern",
+    "text": "Wenn Menschen mit älteren Eltern sie nicht häufig besuchen oder mit ihnen kommunizieren, kann dies mehrere negative Auswirkungen auf die Gesundheit und das Wohlbefinden ihrer Eltern haben.",
+    "substr": "Traurigkeit,; Hoffnungslosigkeit Wertlosigkeit; Alzheimer.; schlechter Hygiene,; Vernachlässigung von Medikamenten,; schlechter Ernährung",
+    "section-1": {
+      "subtitle-1": "Erhöhtes Risiko für Depressionen",
+      "text-1": "Einsamkeit ist eine der Hauptursachen für Depressionen bei älteren Erwachsenen. Wenn ältere Menschen isoliert sind oder sich verlassen fühlen, können sie Gefühle von Traurigkeit, Hoffnungslosigkeit und Wertlosigkeit entwickeln."
+    },
+    "section-2": {
+      "subtitle-2": "Kognitive Beeinträchtigung",
+      "text-2": "Soziale Interaktion ist entscheidend für die geistige Wachsamkeit. Studien haben gezeigt, dass ältere Erwachsene, die Isolation erfahren, ein höheres Risiko für kognitive Beeinträchtigungen haben, einschließlich Gedächtnisverlust und Erkrankungen wie Alzheimer."
+    },
+    "section-3": {
+      "subtitle-3": "Verlust der Motivation zur Selbstpflege",
+      "text-3": "Ohne regelmäßige Besuche oder Interaktionen mit Angehörigen verlieren einige ältere Menschen möglicherweise die Motivation, sich um sich selbst zu kümmern. Dies kann zu schlechter Hygiene, Vernachlässigung von Medikamenten, schlechter Ernährung und einem allgemeinen Rückgang der Selbstpflege-Routinen führen, was zu weiteren Gesundheitskomplikationen führen kann."
+    }
+  },
+  "info-banner2": {
+    "section-1": {
+      "title-1": "Schenken Sie Ihren Eltern sinnvolle Freizeit, die hilft, Gesundheitsrisiken zu reduzieren.",
+      "text-1": "Ein UNCO Eco-Point ist der Ort, an dem Dorfbewohner frische Lebensmittel, Obst und Gemüse direkt von lokalen Bauern abholen. Wir laden Rentner in kleinen Dörfern ein, Eco-Points zu hosten und Nachbarn zusammenzubringen."
+    },
+    "section-2": {
+      "title-2": "Wie können Sie das tun?",
+      "text-2": "Indem Sie einen Eco-Point im Haus Ihrer Eltern eröffnen, helfen Sie Nachbarn, frische, lokale Lebensmittel zu bekommen und schaffen gleichzeitig einen Raum für Gespräche und soziale Interaktionen. Es erfordert nur zwei einfache Schritte:"
+    },
+    "section-3": {
+      "subsection-1": {
+        "title-1": "Erster Schritt:",
+        "text-1": "Zeigen Sie dem Kurier, wo die bestellten Lebensmittel entladen werden können."
+      },
+      "subsection-2": {
+        "title-2": "Zweiter Schritt:",
+        "text-2": "Informieren Sie Ihre Nachbarn, wo sie ihre Bestellungen abholen können."
+      }
+    }
+  },
+  "block-learn-more": {
+    "text-1": "Das Öffnen des Elternhauses als Eco-Point ist eine einfache Möglichkeit für sie, ",
+    "text-2-bold": "aktiv zu bleiben, ihre Gemeinschaft zu unterstützen",
+    "text-3": " und ",
+    "text-4-bold": "regelmäßige soziale Interaktionen zu genießen",
+    "text-5": " – und das alles, während sie einen bedeutenden Beitrag leisten.",
+    "text-6": "Es ist nur minimaler Aufwand erforderlich: ",
+    "text-7-italic": "Die Kuriere entladen die Lebensmittel,",
+    "text-8": " und ",
+    "text-9-italic": "die Kunden holen ihre Bestellungen ab.",
+    "text-10": " Ihre Eltern benötigen nur ein wenig Platz für die Lagerung. Als Eco-Point-Gastgeber erhalten sie auch frische, lokale Lebensmittel, die ihnen helfen,",
+    "text-11-bold": " besser auf ihre Ernährung zu achten",
+    "text-12": " und aktiv zu bleiben.",
+    "button-first-line": "Erfahren",
+    "button-second-line": "Sie mehr"
+  },
+  "collapsible-elements": {
+    "element-1": {
+      "question-1": "1. Wie ist die Lieferung von Produkten zu Abholpunkten organisiert?",
+      "answer-1": "Die Lieferung von Produkten zu den Eco-Point-Abholstellen erfolgt morgens am vereinbarten Tag, wenn die Landwirte die in Thermoboxen verpackten Produkte bringen. Der Eco-Point nimmt die Thermoboxen an und überprüft die Unversehrtheit der Verpackung. Die Produkte benötigen keine zusätzlichen Lagerbedingungen."
+    },
+    "element-2": {
+      "question-2": "2. Wie oft werden Produkte geliefert und wie sind die Lagerbedingungen?",
+      "answer-2": "Der Lieferzeitplan wird mit dem Eco-Point koordiniert, die Produkte werden in Thermoboxen geliefert, wo sie bis zu 24 Stunden gelagert werden, was ihre Frische und Qualität bis zur Auslieferung an die Kunden gewährleistet."
+    },
+    "element-3": {
+      "question-3": "3. Was ist zu tun, wenn es Probleme mit der Lieferung oder der Produktqualität gibt?",
+      "answer-3": "Wenn der Landwirt die Lieferbedingungen nicht erfüllt oder das Produkt nicht den Qualitätsanforderungen entspricht, erhält der Käufer den vollen Preis des Lebensmittel-Futures-Vertrags zurück."
+    },
+    "element-4": {
+      "question-4": "4. Wie ist der Prozess der Ausgabe von Produkten an Eco-Point-Punkten organisiert? Wie lange dauert es?",
+      "answer-4": "Der Kunde präsentiert das Unko Food Future an der Kasse, das Personal am Abholpunkt scannt es und stellt eine persönlich verpackte Bestellung aus, was nicht länger als 5 Minuten dauert, sodass Sie das Produkt schnell erhalten und gleichzeitig eine Tasse Kaffee genießen können!"
+    },
+    "element-5": {
+      "question-5": "5. Wie kann die Zusammenarbeit mit Ihnen mein Geschäft verbessern?",
+      "answer-5": "Die Zusammenarbeit mit uns wird Ihr Geschäft erheblich verbessern, den Verkehr erhöhen, an Werbekampagnen und Marketingmaterialien von UNCO teilnehmen und außerdem ein einzigartiges Menü mit Ihren eigenen Online-Lieferungen von landwirtschaftlichen Produkten erstellen."
+    },
+    "element-6": {
+      "question-6": "6. Wie kann ich einen Produktvertriebspunkt in meiner Nähe eröffnen?",
+      "answer-6": "Dies ist eine einfache Möglichkeit, Ihren Gewinn zu steigern, gehen Sie einfach zu unco.market und hinterlassen Sie Ihre Kontaktdaten! Sie erhalten die Möglichkeit, die Rentabilität Ihres Unternehmens zu steigern und zur Ökologie Ihrer Region beizutragen."
+    }
+  },
+  "block-contact-form": {
+    "title": "Kontaktieren Sie uns",
+    "text-1": "Ihr Name",
+    "text-2": "E-Mail",
+    "text-3": "Telefonnummer",
+    "button": "Senden",
+    "submit-success": "Formular erfolgreich übermittelt!",
+    "submit-fail": "Formular konnte nicht gesendet werden",
+    "submit-error": "Fehler beim Absenden des Formulars!"
+  },
+  "footer": {
+    "menu": {
+      "nav-item-1": "Probleme von Rentnern",
+      "nav-item-2": "Schritte",
+      "nav-item-3": "LÖSUNGEN",
+      "text": "Unterstützt von Discovery Freshness Club Oy"
+    }
+  }
+}

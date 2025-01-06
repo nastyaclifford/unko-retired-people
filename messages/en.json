@@ -1,0 +1,109 @@
+{
+  "header": {
+    "nav-item-1": "PROBLEMS OF RETIRED PEOPLE",
+    "nav-item-2": "STEPS",
+    "nav-item-3": "SOLUTIONS",
+    "button": "Contact us"
+  },
+  "intro": {
+    "title": "Did you know?",
+    "text": "Social isolation in older age can lead to health challenges, such as increased risk of depression and cognitive decline."
+  },
+  "info-banner1": {
+    "title": "Take care of your parents",
+    "text": "When people with aging parents don't visit or communicate with them frequently, it can have several negative impacts on their parents' health and well-being.",
+    "substr": "sadness,; hopelessness,; worthlessness.; Alzheimer's; poor hygiene,; neglecting medications,; bad nutrition",
+    "section-1": {
+      "subtitle-1": "Increased Risk of Depression",
+      "text-1": "Loneliness is one of the leading causes of depression in older adults. When elderly people are isolated or feel abandoned, they may develop feelings of sadness, hopelessness, and a sense of worthlessness."
+    },
+    "section-2": {
+      "subtitle-2": "Cognitive Decline",
+      "text-2": "Social interaction is critical for maintaining mental sharpness. Studies have shown that older adults who experience isolation are at a higher risk of cognitive decline, including memory loss and conditions like Alzheimer's disease."
+    },
+    "section-3": {
+      "subtitle-3": "Loss of Motivation for Self-Care",
+      "text-3": "Without regular visits or interactions with loved ones, some elderly people may lose motivation to take care of themselves. This can result in poor hygiene, neglecting medications, bad nutrition and an overall decline in self-care routines, which could lead to further health complications."
+    }
+  },
+  "info-banner2": {
+    "section-1": {
+      "title-1": "Gift your parents meaningful leisure that helps reduce health risks",
+      "text-1": "An UNCO eco-point is where villagers pick up fresh groceries, fruits, and vegetables delivered directly from local farmers. We’re inviting retired people in small villages to host eco-points, bringing neighbors together."
+    },
+    "section-2": {
+      "title-2": "How you can do it?",
+      "text-2": "By opening an eco-point in your parents' house, you’ll help neighbors get fresh, local groceries while also creating a space for conversations and social interactions. It only takes two easy steps:"
+    },
+    "section-3": {
+      "subsection-1": {
+        "title-1": "First step:",
+        "text-1": "Show the courier where the ordered groceries can be unloaded."
+      },
+      "subsection-2": {
+        "title-2": "Second step:",
+        "text-2": "Let your neighbors know where to pick up their orders."
+      }
+    }
+  },
+  "block-learn-more": {
+    "text-1": "Opening your parents' home as an eco-point is a simple way for them to ",
+    "text-2-bold": "stay engaged, support their community,",
+    "text-3": " and ",
+    "text-4-bold": "enjoy regular social interaction",
+    "text-5": " — all while making a meaningful contribution.",
+    "text-6": "There’s minimal effort required: ",
+    "text-7-italic": "couriers will unload the groceries,",
+    "text-8": " and ",
+    "text-9-italic": "customers will collect their orders.",
+    "text-10": "Your parents only need a bit of space for storage. As eco-point hosts, they’ll also receive fresh, local groceries, helping them",
+    "text-11-bold": " take better care of their nutrition",
+    "text-12": " while staying active.",
+    "button-first-line": "Learn",
+    "button-second-line": "More"
+  },
+  "collapsible-elements": {
+    "element-1": {
+      "question-1": "1. How is delivery of products to pick-up points organized?",
+      "answer-1": "Delivery of products to Eco-point pick-up points occurs in the morning on the agreed day, when farmers bring products packed in thermoboxes. Eco-point accepts thermoboxes and checks the integrity of the packaging. Products do not require additional storage conditions."
+    },
+    "element-2": {
+      "question-2": "2. How often are products delivered and what are the storage conditions?",
+      "answer-2": "The delivery schedule is coordinated with eco-point, products are delivered in thermoboxes, where they are stored for up to 24 hours, which ensures their freshness and quality until they are delivered to customers."
+    },
+    "element-3": {
+      "question-3": "3. What to do in case of problems with delivery or product quality?",
+      "answer-3": "If the farmer does not fulfill the delivery conditions or the product does not meet the quality requirements, the buyer is refunded the full price of the food futures contract."
+    },
+    "element-4": {
+      "question-4": "4. How is the process of issuing products at Eco-point points organized? How long does it take?",
+      "answer-4": "The customer presents the Unko Food Future at the checkout, the staff at the pick-up point scans it and issues a personally packaged order, which takes no more than 5 minutes, allowing you to quickly receive the product and, at the same time, drink a cup of coffee with you!"
+    },
+    "element-5": {
+      "question-5": "5. How can working with you improve my business?",
+      "answer-5": "Cooperation with us will significantly improve your business, increase traffic, take part in advertising campaigns and marketing materials of UNCO, and also create a unique menu of farm products with your own online delivery."
+    },
+    "element-6": {
+      "question-6": "6. How can I open a product distribution point in my area?",
+      "answer-6": "This is an easy way to increase your profit, just go to unco.market and leave your contacts! You will get the opportunity to increase the profitability of your business and contribute to the ecology of your region."
+    }
+  },
+  "block-contact-form": {
+    "title": "Contact us",
+    "text-1": "Your Name",
+    "text-2": "E-Mail",
+    "text-3": "Phone number",
+    "button": "Send",
+    "submit-success": "Form submitted successfully!",
+    "submit-fail": "Failed to submit form",
+    "submit-error": "Error submitting form!"
+  },
+  "footer": {
+    "menu": {
+      "nav-item-1": "PROBLEMS OF RETIRED PEOPLE",
+      "nav-item-2": "STEPS",
+      "nav-item-3": "SOLUTIONS",
+      "text": "Powered by Discovery Freshness Club Oy"
+    }
+  }
+}

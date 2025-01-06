@@ -1,0 +1,73 @@
+@use '../../styles/variables' as *;
+
+ .intro{
+  margin-left: 0;
+  margin-right: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  &_title {
+    @include heading2;
+    margin-bottom: 1.25rem;
+    color: var(--foreground);
+  }
+  
+  &_text {
+    @include p1;
+    width: 55vw;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 10rem;
+    color: var(--foreground);
+  }
+}
+
+@media screen and (min-width: 1401px) {
+  .intro{
+
+    &_title {
+      @include heading1-lg;
+
+    }
+    
+    &_text {
+      @include p1-lg;
+      width: 60vw;
+
+    }}
+}
+
+
+@media screen and (min-width: 701px) and (max-width: 1399px) {
+
+  .intro{
+
+     &_text{
+      width: 80vw;
+      margin-bottom: 6.25rem;
+     }
+  }
+
+}
+
+@media screen  and (max-width: 700px) {
+
+  .intro{
+     &_title{
+      @include heading2-mob;
+     }
+
+     &_text{
+      @include p2;
+      width: 90vw;
+      margin-bottom: 6.25rem;
+     }
+  }
+
+}
+
+
+
+

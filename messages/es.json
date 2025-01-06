@@ -1,0 +1,109 @@
+{
+  "header": {
+    "nav-item-1": "PROBLEMAS DE LOS JUBILADOS",
+    "nav-item-2": "PASOS",
+    "nav-item-3": "SOLUCIONES",
+    "button": "Contáctenos"
+  },
+  "intro": {
+    "title": "¿Lo sabías?",
+    "text": "El aislamiento social en la tercera edad puede acarrear problemas de salud, como un mayor riesgo de depresión y deterioro cognitivo."
+  },
+  "info-banner1": {
+    "title": "Cuida de tus padres",
+    "text": "Cuando las personas con padres ancianos no los visitan ni se comunican con ellos con frecuencia, esto puede tener varias repercusiones negativas en la salud y el bienestar de sus padres.",
+    "substr": "de tristeza,; desesperanza; de inutilidad.; el Alzheimer.; una higiene deficiente,; el descuido de los medicamentos,; una mala alimentación",
+    "section-1": {
+      "subtitle-1": "Mayor riesgo de depresión",
+      "text-1": "La soledad es una de las principales causas de depresión en las personas mayores. Cuando las personas mayores están aisladas o se sienten abandonadas, pueden desarrollar sentimientos de tristeza, desesperanza y sensación de inutilidad."
+    },
+    "section-2": {
+      "subtitle-2": "Declive cognitivo",
+      "text-2": "La interacción social es fundamental para mantener la agudeza mental. Los estudios han demostrado que las personas mayores aisladas corren un mayor riesgo de deterioro cognitivo, incluida la pérdida de memoria y enfermedades como el Alzheimer."
+    },
+    "section-3": {
+      "subtitle-3": "Pérdida de motivación para el autocuidado",
+      "text-3": "Sin visitas periódicas ni interacciones con sus seres queridos, algunas personas mayores pueden perder la motivación para cuidar de sí mismas. Esto puede dar lugar a una higiene deficiente, el descuido de los medicamentos, una mala alimentación y una disminución general de las rutinas de autocuidado, lo que podría provocar más complicaciones de salud."
+    }
+  },
+  "info-banner2": {
+    "section-1": {
+      "title-1": "Regale a sus padres un ocio significativo que contribuya a reducir los riesgos para la salud",
+      "text-1": "Un eco-punto de la UNCO es el lugar donde los vecinos recogen alimentos frescos, frutas y verduras directamente de los agricultores locales. Invitamos a los jubilados de las pequeñas aldeas a albergar ecopuntos para unir a los vecinos."
+    },
+    "section-2": {
+      "title-2": "¿Cómo puede hacerlo?",
+      "text-2": "Al abrir un eco-punto en casa de tus padres, ayudarás a los vecinos a conseguir alimentos frescos y locales, al tiempo que creas un espacio para conversaciones e interacciones sociales. Solo hacen falta dos sencillos pasos:"
+    },
+    "section-3": {
+      "subsection-1": {
+        "title-1": "Primer paso:",
+        "text-1": "Indique al mensajero dónde puede descargar la compra solicitada."
+      },
+      "subsection-2": {
+        "title-2": "Segundo paso:",
+        "text-2": "Indique a sus vecinos dónde pueden recoger sus pedidos."
+      }
+    }
+  },
+  "block-learn-more": {
+    "text-1": "Abrir la casa de tus padres como eco-punto es una forma sencilla de ",
+    "text-2-bold": "que sigan comprometidos, apoyen a su comunidad",
+    "text-3": " y ",
+    "text-4-bold": "disfruten de una interacción social regular",
+    "text-5": ", todo ello mientras realizan una contribución significativa.",
+    "text-6": "El esfuerzo es mínimo: ",
+    "text-7-italic": "los mensajeros descargan los alimentos",
+    "text-8": " y ",
+    "text-9-italic": "los clientes recogen sus pedidos.",
+    "text-10": " Tus padres sólo necesitan un poco de espacio para almacenar. Como anfitriones de eco-point, también recibirán alimentos frescos y locales, lo que les ayudará a",
+    "text-11-bold": " cuidar mejor su alimentación",
+    "text-12": " mientras se mantienen activos.",
+    "button-first-line": "Más",
+    "button-second-line": "información"
+  },
+  "collapsible-elements": {
+    "element-1": {
+      "question-1": "1. ¿Cómo se organiza la entrega de productos en los puntos de recogida?",
+      "answer-1": "La entrega de los productos en los puntos de recogida de Eco-point se produce por la mañana del día acordado, cuando los agricultores llevan los productos envasados en cajas térmicas. Eco-point acepta las cajas térmicas y comprueba la integridad del envase. Los productos no requieren condiciones de almacenamiento adicionales."
+    },
+    "element-2": {
+      "question-2": "2. ¿Con qué frecuencia se entregan los productos y cuáles son las condiciones de almacenamiento?",
+      "answer-2": "El calendario de entregas se coordina con eco-point, los productos se entregan en cajas térmicas, donde se almacenan hasta 24 horas, lo que garantiza su frescura y calidad hasta que se entregan a los clientes."
+    },
+    "element-3": {
+      "question-3": "3. ¿Qué hacer en caso de problemas con la entrega o la calidad del producto?",
+      "answer-3": "Si el agricultor no cumple las condiciones de entrega o el producto no cumple los requisitos de calidad, se devuelve al comprador el precio íntegro del contrato de futuros sobre alimentos."
+    },
+    "element-4": {
+      "question-4": "4. ¿Cómo se organiza el proceso de expedición de productos en los ecopuntos? ¿Cuánto dura?",
+      "answer-4": "El cliente presenta el Unko Food Future en la caja, el personal del punto de recogida lo escanea y emite un pedido empaquetado personalmente, que no tarda más de 5 minutos, lo que le permite recibir rápidamente el producto y, al mismo tiempo, ¡tomar una taza de café con usted!"
+    },
+    "element-5": {
+      "question-5": "5. ¿Cómo puede mejorar mi negocio trabajar con ustedes?",
+      "answer-5": "La cooperación con nosotros mejorará significativamente su negocio, aumentará el tráfico, participará en campañas publicitarias y materiales de marketing de la UNCO, y también creará un menú único de productos agrícolas con su propia entrega en línea."
+    },
+    "element-6": {
+      "question-6": "6. ¿Cómo puedo abrir un punto de distribución de productos en mi zona?",
+      "answer-6": "Esta es una forma fácil de aumentar tus beneficios, ¡sólo tienes que entrar en unco.market y dejar tus contactos! Tendrás la oportunidad de aumentar la rentabilidad de tu negocio y contribuir a la ecología de tu región."
+    }
+  },
+  "block-contact-form": {
+    "title": "Contáctenos",
+    "text-1": "Su nombre",
+    "text-2": "Correo electrónico",
+    "text-3": "Número de teléfono",
+    "button": "Enviar",
+    "submit-success": "¡Formulario enviado exitosamente!",
+    "submit-fail": "No se pudo enviar el formulario",
+    "submit-error": "¡Error al enviar el formulario!"
+  },
+  "footer": {
+    "menu": {
+      "nav-item-1": "PROBLEMAS DE LOS JUBILADOS",
+      "nav-item-2": "PASOS",
+      "nav-item-3": "SOLUCIONES",
+      "text": "Desarrollado por Discovery Freshness Club Oy"
+    }
+  }
+}

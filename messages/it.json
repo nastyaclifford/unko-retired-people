@@ -1,0 +1,109 @@
+{
+  "header": {
+    "nav-item-1": "PROBLEMI DEI PENSIONATI",
+    "nav-item-2": "PASSI",
+    "nav-item-3": "SOLUZIONI",
+    "button": "Contattateci"
+  },
+  "intro": {
+    "title": "Lo sapevate?",
+    "text": "L'isolamento sociale in età avanzata può portare a problemi di salute, come l'aumento del rischio di depressione e di declino cognitivo."
+  },
+  "info-banner1": {
+    "title": "Prendetevi cura dei vostri genitori",
+    "text": "Quando le persone con genitori anziani non vanno a trovarli o non comunicano frequentemente con loro, ciò può avere diversi effetti negativi sulla salute e sul benessere dei genitori.",
+    "substr": "di tristezza,; disperazione; di inutilità.; di Alzheimer.; una scarsa igiene,; trascurare i farmaci,; un'alimentazione scorretta",
+    "section-1": {
+      "subtitle-1": "Aumento del rischio di depressione",
+      "text-1": "La solitudine è una delle principali cause di depressione negli anziani. Quando gli anziani sono isolati o si sentono abbandonati, possono sviluppare sentimenti di tristezza, disperazione e senso di inutilità."
+    },
+    "section-2": {
+      "subtitle-2": "Declino cognitivo",
+      "text-2": "L'interazione sociale è fondamentale per mantenere la lucidità mentale. Alcuni studi hanno dimostrato che gli anziani che si isolano sono più a rischio di declino cognitivo, compresa la perdita di memoria e condizioni come il morbo di Alzheimer."
+    },
+    "section-3": {
+      "subtitle-3": "Perdita di motivazione per la cura di sé",
+      "text-3": "Senza visite regolari o interazioni con i propri cari, alcuni anziani possono perdere la motivazione a prendersi cura di sé. Questo può portare a una scarsa igiene, a trascurare i farmaci, a un'alimentazione scorretta e a un declino generale delle routine di autocura, che potrebbe portare a ulteriori complicazioni di salute."
+    }
+  },
+  "info-banner2": {
+    "section-1": {
+      "title-1": "Regalate ai vostri genitori un tempo libero significativo che aiuti a ridurre i rischi per la salute",
+      "text-1": "Un eco-punto UNCO è il luogo in cui gli abitanti dei villaggi ritirano generi alimentari freschi, frutta e verdura consegnati direttamente dagli agricoltori locali. Stiamo invitando i pensionati dei piccoli villaggi a ospitare gli eco-punti, riunendo i vicini."
+    },
+    "section-2": {
+      "title-2": "Come si può fare?",
+      "text-2": "Aprendo un eco-punto a casa dei vostri genitori, aiuterete i vicini a procurarsi generi alimentari freschi e locali e creerete uno spazio per le conversazioni e le interazioni sociali. Bastano due semplici passi:"
+    },
+    "section-3": {
+      "subsection-1": {
+        "title-1": "Primo passo:",
+        "text-1": "Mostrate al corriere dove è possibile scaricare la spesa ordinata."
+      },
+      "subsection-2": {
+        "title-2": "Seconda fase:",
+        "text-2": "Fate sapere ai vostri vicini dove ritirare gli ordini."
+      }
+    }
+  },
+  "block-learn-more": {
+    "text-1": "Aprire la casa dei vostri genitori come eco-punto è un modo semplice per ",
+    "text-2-bold": "farli rimanere impegnati, sostenere la loro comunità",
+    "text-3": " e ",
+    "text-4-bold": "godere di un'interazione sociale regolare",
+    "text-5": ", il tutto dando un contributo significativo.",
+    "text-6": "L'impegno è minimo: ",
+    "text-7-italic": "i corrieri scaricano la spesa",
+    "text-8": " e ",
+    "text-9-italic": "i clienti ritirano gli ordini.",
+    "text-10": " I vostri genitori hanno bisogno solo di un po' di spazio per la conservazione. Come ospiti dell'eco-punto, riceveranno anche generi alimentari freschi e locali, aiutandoli a",
+    "text-11-bold": " prendersi cura della propria alimentazione",
+    "text-12": " e a mantenersi attivi.",
+    "button-first-line": "Per saperne",
+    "button-second-line": "di più"
+  },
+  "collapsible-elements": {
+    "element-1": {
+      "question-1": "1. Come è organizzata la consegna dei prodotti ai punti di raccolta?",
+      "answer-1": "La consegna dei prodotti ai punti di raccolta Eco-point avviene al mattino del giorno concordato, quando gli agricoltori portano i prodotti confezionati in termobox. Eco-point accetta le scatole termiche e controlla l'integrità della confezione. I prodotti non necessitano di ulteriori condizioni di conservazione."
+    },
+    "element-2": {
+      "question-2": "2. Con quale frequenza vengono consegnati i prodotti e quali sono le condizioni di stoccaggio?",
+      "answer-2": "Il calendario delle consegne è coordinato con l'eco-point, i prodotti vengono consegnati in termobox, dove vengono conservati fino a 24 ore, il che ne garantisce la freschezza e la qualità fino alla consegna ai clienti."
+    },
+    "element-3": {
+      "question-3": "3. Cosa fare in caso di problemi di consegna o di qualità del prodotto?",
+      "answer-3": "Se l'agricoltore non rispetta le condizioni di consegna o il prodotto non soddisfa i requisiti di qualità, l'acquirente viene rimborsato dell'intero prezzo del contratto food futures."
+    },
+    "element-4": {
+      "question-4": "4. Come è organizzato il processo di rilascio dei prodotti presso i punti Eco-point? Quanto tempo ci vuole?",
+      "answer-4": "Il cliente presenta l'Unko Food Future alla cassa, il personale del punto di ritiro lo scansiona ed emette un ordine confezionato personalmente, che richiede non più di 5 minuti, consentendo di ricevere rapidamente il prodotto e, allo stesso tempo, di bere una tazza di caffè in compagnia!"
+    },
+    "element-5": {
+      "question-5": "5. In che modo la collaborazione con voi può migliorare la mia attività?",
+      "answer-5": "La collaborazione con noi migliorerà significativamente la vostra attività, aumenterà il traffico, parteciperà alle campagne pubblicitarie e ai materiali di marketing di UNCO, e inoltre creerà un menu unico di prodotti agricoli con consegna online."
+    },
+    "element-6": {
+      "question-6": "6. Come posso aprire un punto di distribuzione dei prodotti nella mia zona?",
+      "answer-6": "Questo è un modo semplice per aumentare i vostri profitti, basta andare su unco.market e lasciare i vostri contatti! Avrete l'opportunità di aumentare la redditività della vostra attività e di contribuire all'ecologia della vostra regione."
+    }
+  },
+  "block-contact-form": {
+    "title": "Contattateci",
+    "text-1": "Il tuo nome",
+    "text-2": "E-mail",
+    "text-3": "Numero di telefono",
+    "button": "Inviare",
+    "submit-success": "Modulo inviato con successo!",
+    "submit-fail": "Impossibile inviare il modulo",
+    "submit-error": "Errore durante l'invio del modulo!"
+  },
+  "footer": {
+    "menu": {
+      "nav-item-1": "PROBLEMI DEI PENSIONATI",
+      "nav-item-2": "PASSI",
+      "nav-item-3": "SOLUZIONI",
+      "text": "Prodotto da Discovery Freshness Club Oy"
+    }
+  }
+}
