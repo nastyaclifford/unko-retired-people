@@ -1,6 +1,7 @@
 import Image from "next/image"
 import styles from "./Footer.module.scss"
 import { useTranslations } from "next-intl";
+import Link from "next/link";
 
 export default function Footer () {
     const translate = useTranslations('footer');
