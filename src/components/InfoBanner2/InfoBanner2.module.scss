@@ -54,7 +54,7 @@
   &_text {
     @include p1;
     width: 60rem;
-
+    
   }
   &_grid {
     display: grid;
@@ -93,7 +93,7 @@
   }
   &_text {
     @include p1;
-    //color: $light-black;
+    color: $light-black;
   }
 }
 

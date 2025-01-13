@@ -17,7 +17,7 @@ export default function Footer () {
             <div className={styles.footer__item}>
                 <Image src='/images/Header/Logo.svg' alt='logo' width={136} height={81} />
                 <div className={styles.footer__topics}>
-                <Link className={styles.menu} href='#infoBanner1'>{translate("menu.nav-item-1")}</Link>
+                    <Link className={styles.menu} href='#infoBanner1'>{translate("menu.nav-item-1")}</Link>
                     <Link className={styles.menu} href="#infoBanner2">{translate("menu.nav-item-2")}</Link>
                     <Link className={styles.menu} href="#learnMore">{translate("menu.nav-item-3")}</Link>
                 </div>
